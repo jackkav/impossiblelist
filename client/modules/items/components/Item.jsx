@@ -1,5 +1,6 @@
 import React from 'react';
 import { Row, Col, Panel, Glyphicon, Input } from 'react-bootstrap';
+import moment from 'moment';
 
 class Item extends React.Component {
 	render() {
